@@ -45,6 +45,10 @@ python secretnotes.py
 
 -Click the Decrypt button to reveal the hidden message.
 
+<img width="399" height="625" alt="image" src="https://github.com/user-attachments/assets/f18664fd-39ce-45b7-a491-8589bc977a72" /> <img width="404" height="100" alt="image" src="https://github.com/user-attachments/assets/75536a48-5973-45d7-982d-f8a2e15e5e83" />
+
+
+
 ## ⚠️ Disclaimer
 This project was developed for educational purposes to demonstrate basic cryptography and GUI creation in Python. The custom encryption algorithm is relatively simple and should not be used to store highly sensitive data (like bank accounts or real passwords).
 
